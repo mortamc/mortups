@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26220036/README.md)
 > ⚠️ **WARNING: READ THE INSTRUCTIONS AND FILES BEFORE USE**
 
 # mortups v1.0
