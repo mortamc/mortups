@@ -1,6 +1,6 @@
 #  WARNING: READ THE INSTRUCTIONS AND FILES BEFORE USE
 
-  REQUIREMENTS / REQUISITOS:
+  REQUIREMENTS:
   
        Java 8 jre in system PATH
        7-Zip installed (https://7-zip.org)
